@@ -1,4 +1,4 @@
-version: '3'
+version: "3"
 services:
   frontend:
     container_name: tt_web
@@ -7,7 +7,7 @@ services:
     ports:
       - "8069:8069"
     volumes:
-      - './web_server/src:/usr/bin/src/webapp/src'
+      - "./web_server/src:/usr/bin/src/webapp/src"
   backend:
     container_name: tt_api
     image: tt_api_server
@@ -15,5 +15,4 @@ services:
     ports:
       - "8075:8075"
     volumes:
-      - './api_server:/api_server'
-  
+      - "./api_server:/api_server"

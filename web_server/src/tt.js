@@ -1,6 +1,6 @@
 // define the time limit
-// let TIME_LIMIT = 60;
-let TIME_LIMIT = 1;
+let TIME_LIMIT = 60;
+// let TIME_LIMIT = 1;
 
 // selecting required elements
 let timer_text = document.querySelector(".curr_time");
@@ -153,6 +153,7 @@ function finishGame() {
 	let USER = Math.floor(Math.random() * 100);
 	let timestamp = new Date();
 	let publicIp = httpGet("https://api.ipify.org/");
+
 	var myHeaders = new Headers();
 	myHeaders.append("Content-Type", "application/x-www-form-urlencoded");
 

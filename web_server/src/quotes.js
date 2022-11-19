@@ -6,5 +6,5 @@ let quotes_array = [
 	"I'd rather be a rising ape than a falling angel.",
 	"It's not worth doing something unless someone, somewhere, would much rather you weren't doing it.",
 	"Stories of imagination tend to upset those without one.",
-	"Fantasy is an exercise bicycle for the mind. It might not take you anywhere, but it tones up the muscles that can."
+	"Fantasy is an exercise bicycle for the mind. It might not take you anywhere, but it tones up the muscles that can.",
 ];
