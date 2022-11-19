@@ -1,5 +1,4 @@
 let quotes_array = [
-	// "Little is known about Aesop, except that he lived in Greece, probably between 600 and 500 B.C. Happily for readers, scribblers can rarely resist adorning empty biographies with tales - appropriate in Aesop's case, since generations have celebrated him as the archetypal storyteller. 'What Aesop was by birth,' Nathaniel Crouch wrote in 1737, 'authors don't agree, but that he was of a mean condition, and his person deformed to the highest degree, is what all affirm: he was flat-nos'd, hunch-back'd, bloober-lip'd, jolt-headed: his body crooked all over, big-belly'd, badger-legg'd, and of a swarthy complexion. But the excellency and beauty of his mind made a sufficient atonement for the outward appearance of his person.' Add that he stuttered terribly, quite a handicap for a philosophic raconteur, and Aesop becomes a man delightful to discover on the page, no matter the quality of his mind.",
 	"There was once a Dog who used to snap at people and bite them without any provocation, and who was a great nuisance to every one who came to his master's house.",
 	"So his master fastened a bell round his neck to warn people of his presence. The Dog was very proud of the bell, and strutted about tinkling it with immense satisfaction.",
 	"But an old dog came up to him and said, 'The fewer airs you give yourself the better, my friend. You don't think, do you, that your bell was given you as a reward of merit?",
@@ -12,4 +11,11 @@ let quotes_array = [
 	"It's not worth doing something unless someone, somewhere, would much rather you weren't doing it.",
 	"Stories of imagination tend to upset those without one.",
 	"Fantasy is an exercise bicycle for the mind. It might not take you anywhere, but it tones up the muscles that can.",
+	"Little is known about Aesop, except that he lived in Greece, probably between 600 and 500 B.C. Happily for readers,",
+	"scribblers can rarely resist adorning empty biographies with tales - appropriate in Aesop's case, since generations have",
+	"celebrated him as the archetypal storyteller. 'What Aesop was by birth,' Nathaniel Crouch wrote in 1737, 'authors don't agree,",
+	"but that he was of a mean condition, and his person deformed to the highest degree, is what all affirm: he was flat-nos'd,",
+	"hunch-back'd, bloober-lip'd, jolt-headed: his body crooked all over, big-belly'd, badger-legg'd, and of a swarthy complexion.",
+	"But the excellency and beauty of his mind made a sufficient atonement for the outward appearance of his person.'",
+	"Add that he stuttered terribly, quite a handicap for a philosophic raconteur, and Aesop becomes a man delightful to discover on the page, no matter the quality of his mind.",
 ];
