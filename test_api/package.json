@@ -1,0 +1,26 @@
+{
+  "name": "test_api",
+  "version": "1.0.0",
+  "description": "Just learning how to make a REST API",
+  "main": "index.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgaltair/test_api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sgaltair/test_api/issues"
+  },
+  "homepage": "https://github.com/sgaltair/test_api#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "mongoose": "^6.7.5"
+  }
+}
