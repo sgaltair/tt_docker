@@ -10,11 +10,11 @@ services:
       - "./web_server/src:/usr/bin/src/webapp/src"
     restart: unless-stopped
   backend:
-    container_name: tt_api
-    image: tt_api_server
-    build: ./api_server/
+    container_name: test_api
+    image: test_api_server
+    build: ./test_api/
     ports:
-      - "8075:8075"
+      - "8011:8011"
     volumes:
-      - "./api_server:/api_server"
+      - "./test_api:/test_api"
     restart: unless-stopped
